@@ -1,2 +1,2 @@
 lottery-adi.pages.dev
-lottery.speakslumen.dpdns.org
+自訂網域lottery.speakslumen.dpdns.org
